@@ -10,7 +10,7 @@
   font-family: Inter;
   margin: 0;
   padding: 0;
-  background-color: MintCream;
+  background-color: rgb(227, 227, 227);
 }
 
 .header {
@@ -58,4 +58,8 @@
   border-radius: 7px;
   font-size: 18px;
   text-align: center;
+}
+
+.link:active {
+  background-color: black;
 }
